@@ -1,7 +1,8 @@
 	Intended to address [ https://github.com/orgs/community/discussions/39375 ] alike.
 
-	Based on [ https://github.com/vcflib/vcflib ]: experimenting ".gitmodules".
+	Based on [ https://github.com/vcflib/vcflib ] [1]: experimenting ".gitmodules".
 	So far no success.
+[1] See also: https://github.com/vcflib/tabixpp
 
 	See also:
 	https://git-scm.com/docs/gitmodules
