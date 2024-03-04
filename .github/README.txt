@@ -2,7 +2,7 @@
 
 	Based on [ https://github.com/vcflib/vcflib ] [1]: experimenting ".gitmodules".
 	So far no success.
-[1] See also: https://github.com/vcflib/tabixpp
+[1] More clear example: https://github.com/vcflib/tabixpp
 
 	See also:
 	https://git-scm.com/docs/gitmodules
